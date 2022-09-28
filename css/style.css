@@ -5,8 +5,8 @@
 
 body {
     background-image: url(../img/78d06578d8aa9d6238b7ab8f3035a8ec.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat:no-repeat;
+    background-size:cover;
     font-family: 'Lato', sans-serif;
     color: white;
 }
@@ -34,7 +34,7 @@ body {
 
 .interection_list li a {
     background-color: white;
-    color: rosybrown;
+    color: black;
     padding: 10px;
     display: block;
     border-radius: 40px;
@@ -68,8 +68,9 @@ footer{
     padding: 15px;
 }
 
-h2{
+h2,h3{
     text-align: center;
+    margin: 40px
 }
 
 .videoapresentacao {
