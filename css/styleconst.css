@@ -7,12 +7,20 @@ body{
     text-align: center;
 }
 
+.home {
+
+list-style: none;
+justify-content: center;
+
+}
+
 .logo {
     width: 85px;
     border-radius: 19%;
     box-shadow: 0 0 20px red;
-    margin-top: 15px;
+    margin-top: 15px;    
 }
+
 
 h3{
     margin: 60px 89px 89px 89px;
